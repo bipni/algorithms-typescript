@@ -6,3 +6,7 @@ Implementation of Different Algorithms in TypeScript.
 
 -   Linear Search
 -   Binary Search
+
+## Sorting
+
+-   Merge Sort
